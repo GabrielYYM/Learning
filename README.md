@@ -15,7 +15,7 @@ Source|Completion
 ## Web Design
 Source|Completion
 :------: | :------: 
-|[Responsive Web Design]([https://www.udacity.com/course/c-for-programmers--ud210](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | In progress
+|[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | In progress
 
 ## Java 
 Source|Completion
