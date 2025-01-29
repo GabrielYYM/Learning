@@ -10,7 +10,7 @@ Source|Completion
 ## C++
 Source|Completion
 :------: | :------: 
-|[C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)|1/15 
+|[C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) |1/15 
 
 ## Web Design
 Source|Completion
@@ -20,4 +20,8 @@ Source|Completion
 ## Java 
 Source|Completion
 :------: | :------: 
-|[Full Java Course](https://youtu.be/xTtL8E4LzTQ?si=TLf5xIG3iEIxGp2x)|✔️
+|[Full Java Course](https://youtu.be/xTtL8E4LzTQ?si=TLf5xIG3iEIxGp2x) | ✔️
+
+## JavaScript
+:------: | :------: 
+|[Udacity ES6](https://www.udacity.com/course/es6-javascript-improved--ud356) | In progress
