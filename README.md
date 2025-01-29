@@ -23,5 +23,6 @@ Source|Completion
 |[Full Java Course](https://youtu.be/xTtL8E4LzTQ?si=TLf5xIG3iEIxGp2x) | ✔️
 
 ## JavaScript
-:------: | :------: 
+Source|Completion
+:------: | :------:
 |[Udacity ES6](https://www.udacity.com/course/es6-javascript-improved--ud356) | In progress
