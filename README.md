@@ -26,3 +26,8 @@ Source|Completion
 Source|Completion
 :------: | :------:
 |[Udacity ES6](https://www.udacity.com/course/es6-javascript-improved--ud356) | In progress
+
+## Generative AI
+Source|Completion
+:------: | :------:
+|[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai) | In progressS
