@@ -32,6 +32,12 @@ Source|Completion
 :------: | :------:
 |[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai) | In progress
 
+
+## Web Design
+Source|Completion
+:------: | :------:
+|[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | In progress
+
 ## POO
 Source|Completion
 :------: | :------:
